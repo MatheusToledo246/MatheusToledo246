@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Matheus Toledo 👋
 
-<!--
-**MatheusToledo246/MatheusToledo246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### About
+I'm web Developer. and, I'm studying web development at [Rocketseat](https://app.rocketseat.com.br/dashboard)
+####  Current stack
+- 💻 Main langange: `JavaScript`
+- 📡 Backend: `Node.js`
+- 🎨 Frontend: `Reactjs`, `HTML5`, `CSS3`
+- 👾 Version code control: `Git & Github`
+- 🔧 Tools: `Vscode`
+#### Contacts
+- 📬 Email: Matheus.silva246@fatec.sp.gov.br
+- 📱 Linkedin: [Matheus Toledo](https://www.linkedin.com/in/matheus-toledo-803588186/)
